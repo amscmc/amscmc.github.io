@@ -1,9 +1,6 @@
-theme: 
-name: 
-
-remote_theme: daviddarnes/alembic@main
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
+theme: jekyll-theme-minimal 
 title: AMS Ad Hoc Community Modeling Committee
 description: Homepage for the American Meteorological Society Ad Hoc Community Modeling Committee (AMS CMC)
+
+
+
