@@ -10,3 +10,6 @@ The CMC is ...
 -
 -
 -
+
+## Are you interested in joining the CMC?
+We accept applicants on a rolling basis, please submit your interest via *this form*
